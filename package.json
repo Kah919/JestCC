@@ -1,0 +1,23 @@
+{
+  "name": "JestCC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kah919/JestCC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kah919/JestCC/issues"
+  },
+  "homepage": "https://github.com/Kah919/JestCC#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
